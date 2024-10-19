@@ -21,6 +21,8 @@ main:
     conference_short: IPDPS
     conference: IEEE International Parallel and Distributed Processing Symposium, IPDPS, 2022
     pdf: https://par.nsf.gov/servlets/purl/10386524
+    code: https://github.com/nsreekum/HACCS
+    slides: ./assets/files/pubs/HACCS_IPDPS_2022.pdf
     bibtex: ./assets/files/bibtex/haccs.bib
     image: ./assets/img/pubs/haccs.png
   
@@ -38,5 +40,6 @@ main:
     conference_short: SEC
     conference: IEEE/ACM Symposium on Edge Computing, SEC, 2020
     pdf: https://ieeexplore.ieee.org/abstract/document/9355587
+    slides: ./assets/files/pubs/EdgeNativeStorage_SEC_2020.pdf
     bibtex: ./assets/files/bibtex/edgestorage.bib
     image: ./assets/img/pubs/edgestorage.png

@@ -5,5 +5,6 @@ main:
     conference_short: EdgeSys
     conference: International Workshop on Edge Systems, Analytics and Networking, EdgeSys, 2021.
     pdf: https://dl.acm.org/doi/pdf/10.1145/3434770.3459734
+    slides: ./assets/files/pubs/Accelerate_EdgeSys_2021.pdf
     bibtex: ./assets/files/bibtex/accelerate.bib
     image: ./assets/img/pubs/accelerate.png
