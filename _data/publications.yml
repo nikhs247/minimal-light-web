@@ -1,22 +1,42 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Locality, Latency and Spatial-Aware Data Placement Strategies at the Edge"
+    authors: Nikhil Sreekumar, Abhishek Chandra, Jon Weissman
+    conference_short: arxiv
+    conference: arxiv, 2023
+    pdf: https://arxiv.org/abs/2212.01984
+    bibtex: ./assets/files/bibtex/spall.bib
+    image: ./assets/img/pubs/spall.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Towards Elasticity in Heterogeneous Edge-dense Environments"
+    authors: Lei Huang, Zhiying Liang, Nikhil Sreekumar, Sumanth Kaushik Vishwanath, Abhishek Chandra, Jon Weissman
+    conference_short: ICDCS
+    conference: IEEE International Conference on Distributed Computing Systems, ICDCS, 2022
+    pdf: https://par.nsf.gov/servlets/purl/10354987
+    bibtex: ./assets/files/bibtex/heteroedge.bib
+    image: ./assets/img/pubs/armadahetero.png
+
+  - title: "HACCS: Heterogeneity-aware clustered client selection for accelerated federated learning"
+    authors: Joel Wolfrath, Nikhil Sreekumar, Dhruv Kumar, Yuanli Wang, Abhishek Chandra
+    conference_short: IPDPS
+    conference: IEEE International Parallel and Distributed Processing Symposium, IPDPS, 2022
+    pdf: https://par.nsf.gov/servlets/purl/10386524
+    bibtex: ./assets/files/bibtex/haccs.bib
+    image: ./assets/img/pubs/haccs.png
+  
+  - title: "Armada: A Robust Latency-Sensitive Edge Cloud in Heterogeneous Edge-Dense Environments"
+    authors: Lei Huang, Zhiying Liang, Nikhil Sreekumar, Sumanth Kaushik Vishwanath, Cody Perakslis, Abhishek Chandra, Jon Weissman
+    conference_short: arxiv
+    conference: arxiv, 2022
+    pdf: https://par.nsf.gov/servlets/purl/10386524
+    bibtex: ./assets/files/bibtex/armada.bib
+    image: ./assets/img/pubs/armada.png
+    notes: Precursor to "Towards Elasticity in Heterogeneous Edge-dense Environments"
+
+  - title: "Position paper: Towards a robust edge-native storage system"
+    authors: Nikhil Sreekumar, Abhishek Chandra, Jon Weissman
+    conference_short: SEC
+    conference: IEEE/ACM Symposium on Edge Computing, SEC, 2020
+    pdf: https://ieeexplore.ieee.org/abstract/document/9355587
+    bibtex: ./assets/files/bibtex/edgestorage.bib
+    image: ./assets/img/pubs/edgestorage.png

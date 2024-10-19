@@ -1,0 +1,9 @@
+main:
+
+  - title: Accelerated training via device similarity in federated learning
+    authors: Yuanli Wang, Joel Wolfrath, Nikhil Sreekumar, Dhruv Kumar, Abhishek Chandra
+    conference_short: EdgeSys
+    conference: International Workshop on Edge Systems, Analytics and Networking, EdgeSys, 2021.
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3434770.3459734
+    bibtex: ./assets/files/bibtex/accelerate.bib
+    image: ./assets/img/pubs/accelerate.png

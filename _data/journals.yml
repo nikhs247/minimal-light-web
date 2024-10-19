@@ -1,0 +1,9 @@
+main:
+
+  - title: A Survey and Experimental Review on Data Distribution Strategies for Parallel Spatial Clustering Algorithms
+    authors: Jagat Challa, Navneet Goyal, Amogh Sharma, <strong>Nikhil Sreekumar</strong>, Sundar Balasubramaniam, Poonam Goyal
+    conference_short: JCST
+    conference: Journal of Computer Science and Technology, <strong>JCST</strong>, 2024.
+    pdf: https://jcst.ict.ac.cn/en/article/pdf/preview/10.1007/s11390-024-2700-0.pdf
+    bibtex: ./assets/files/bibtex/survey_spatial_cluster.bib
+    image: ./assets/img/pubs/spatialcluster.png
