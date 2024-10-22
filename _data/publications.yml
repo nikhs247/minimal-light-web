@@ -13,6 +13,7 @@ main:
     conference_short: ICDCS
     conference: IEEE International Conference on Distributed Computing Systems, ICDCS, 2022
     pdf: https://par.nsf.gov/servlets/purl/10354987
+    slides: ./assets/files/pubs/TowardsHetero_ICDCS_2022.pdf
     bibtex: ./assets/files/bibtex/heteroedge.bib
     image: ./assets/img/pubs/armadahetero.png
 
